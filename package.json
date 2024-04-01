@@ -1,0 +1,45 @@
+{
+  "name": "iustodolorum",
+  "version": "1.0.0",
+  "description": "realistic password strength estimation",
+  "author": "DaijaRutherford",
+  "license": "MIT",
+  "main": "lib/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MandyRippin/iustodolorum.git"
+  },
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "coffee-coverage": "^0.6.3",
+    "coffee-script": "^1.10.0",
+    "coffeeify": "^1.1.0",
+    "coffeetape": "^1.0.1",
+    "exorcist": "^0.4.0",
+    "faucet": "^0.0.1",
+    "istanbul": "^0.3.18",
+    "tape": "^4.2.0",
+    "uglifyify": "^3.0.1",
+    "watchify": "^3.3.1",
+    "zuul": "^3.4.0"
+  },
+  "keywords": [
+    "non",
+    "sit",
+    "voluptas",
+    "veniam",
+    "reprehenderit",
+    "meter",
+    "est",
+    "estimation",
+    "voluptatum",
+    "qui",
+    "labore",
+    "entropy",
+    "enim"
+  ],
+  "bugs": {
+    "url": "https://github.com/MandyRippin/iustodolorum.git/issues"
+  },
+  "homepage": "https://github.com/MandyRippin/iustodolorum.git"
+}
